@@ -1,16 +1,15 @@
-## Hi there 👋
+# Ata Taksi | 7/24 VIP Transfer & Şehirler Arası Taksi Hizmeti
 
-<!--
-**atasehirkorsantaksi2-gif/atasehirkorsantaksi2-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+İstanbul, Sakarya, Kocaeli, Tekirdağ ve Bursa genelinde güvenilir, sabit fiyatlı ve konforlu ulaşım çözümleri sunuyoruz. 
 
-Here are some ideas to get you started:
+### 🚖 Hizmetlerimiz
+* **Havalimanı Transfer:** İstanbul Havalimanı ve Sabiha Gökçen için 7/24 kesintisiz ulaşım.
+* **Şehirler Arası Transfer:** Bursa, Kocaeli, Sakarya ve tüm çevre illere VIP araçlarla konforlu transfer.
+* **Güvenli Ulaşım:** Temiz araçlar ve profesyonel sürücü desteği ile tam zamanında hizmet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📍 Hizmet Bölgelerimiz
+Ataşehir, Beşiktaş, Ümraniye, Gebze, Çorlu ve tüm Marmara Bölgesi genelinde hizmetinizdeyiz.
+
+---
+🔗 **Resmi Web Sitemiz:** [www.atataksi.com.tr](https://www.atataksi.com.tr)  
+📞 **Hemen Ara & Bilgi Al:** [0554 342 34 10](tel:05543423410)
