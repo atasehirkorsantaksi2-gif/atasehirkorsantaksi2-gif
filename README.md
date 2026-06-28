@@ -7,21 +7,26 @@
 - Şehirler Arası Transfer: Bursa, Kocaeli, Sakarya ve tüm çevre illere VIP araçlarla konforlu transfer.
 - Güvenli Ulaşım: Temiz araçlar ve profesyonel sürücü desteği ile tam zamanında hizmet.
 
-### Hizmet Bölgelerimiz ve Detaylı Bilgiler
-
+Hizmet Bölgelerimiz ve Detaylı Bilgiler
 Aşağıdaki bağlantılardan hizmet verdiğimiz bölgelerin detaylı sayfalarına ve doğrudan rezervasyon hatlarımıza ulaşabilirsiniz:
 
-- İzmit Korsan Taksi Hizmetimiz:
+İzmit Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/izmit-korsan-taksi---simdi-ara-0554-342-34-10
 
-- Sabiha Gökçen Havalimanı Korsan Taksi Hizmetimiz:
+Sabiha Gökçen Havalimanı Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/sabiha-gokcen-saw-korsan-taksi
 
-- Sakarya Korsan Taksi Hizmetimiz:
+Sakarya Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/sakarya-korsan-taksi---7-gun-24-saat-konforlu-yolculuk
 
-- İstanbul Havalimanı Korsan Taksi Hizmetimiz:
+İstanbul Havalimanı Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/ihl-istanbul-havaalani-korsan-taksi
+
+Gebze Korsan Taksi Hizmetimiz:
+https://www.atataksi.com.tr/gebze-korsan-taksi
+
+Tuzla Korsan Taksi Hizmetimiz:
+https://www.atataksi.com.tr/tuzla-korsan-taksi
 
 ### Resmi İletişim ve Ana Sayfamız
 
