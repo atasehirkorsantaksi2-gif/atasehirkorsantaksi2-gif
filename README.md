@@ -1,14 +1,24 @@
-# Ata Taksi | 7/24 VIP Transfer & Şehirler Arası Taksi Hizmeti
+Ata Taksi | 7/24 VIP Transfer ve Şehirler Arası Taksi Hizmeti
 
 İstanbul, Sakarya, Kocaeli, Tekirdağ ve Bursa genelinde güvenilir, sabit fiyatlı ve konforlu ulaşım çözümleri sunuyoruz.
 
-### Hizmetlerimizi İnceleyin
-- Havalimanı Transfer: İstanbul Havalimanı ve Sabiha Gökçen için 7/24 kesintisiz ulaşım.
-- Şehirler Arası Transfer: Bursa, Kocaeli, Sakarya ve tüm çevre illere VIP araçlarla konforlu transfer.
-- Güvenli Ulaşım: Temiz araçlar ve profesyonel sürücü desteği ile tam zamanında hizmet.
+Hizmetlerimizi İnceleyin
+
+Havalimanı Transfer: İstanbul Havalimanı ve Sabiha Gökçen için 7/24 kesintisiz ulaşım.
+
+Şehirler Arası Transfer: Bursa, Kocaeli, Sakarya ve tüm çevre illere VIP araçlarla konforlu transfer.
+
+Güvenli Ulaşım: Temiz araçlar ve profesyonel sürücü desteği ile tam zamanında hizmet.
 
 Hizmet Bölgelerimiz ve Detaylı Bilgiler
+
 Aşağıdaki bağlantılardan hizmet verdiğimiz bölgelerin detaylı sayfalarına ve doğrudan rezervasyon hatlarımıza ulaşabilirsiniz:
+
+Pendik Korsan Taksi Hizmetimiz:
+https://www.atataksi.com.tr/pendik-korsan-taksi
+
+Kartal Korsan Taksi Hizmetimiz:
+https://www.atataksi.com.tr/kartal-korsan-taksi
 
 İzmit Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/izmit-korsan-taksi---simdi-ara-0554-342-34-10
@@ -28,7 +38,7 @@ https://www.atataksi.com.tr/gebze-korsan-taksi
 Tuzla Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/tuzla-korsan-taksi
 
-### Resmi İletişim ve Ana Sayfamız
+Resmi İletişim ve Ana Sayfamız
 
 Fiyat tarifelerimizi kontrol etmek, güncel konumunuza hızlıca araç çağırmak veya VIP transfer rezervasyonu oluşturmak için resmi web sitemizin ana sayfasını ziyaret edin:
 https://www.atataksi.com.tr
