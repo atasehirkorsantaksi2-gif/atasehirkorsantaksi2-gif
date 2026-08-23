@@ -41,6 +41,12 @@ https://www.atataksi.com.tr/tuzla-korsan-taksi
 Maltepe Korsan Taksi Hizmetimiz:
 https://www.atataksi.com.tr/maltepe-korsan-taksi
 
+Ataşehir Korsan Taksi Hizmetimiz:
+https://www.atataksi.com.tr/atasehir-korsan-taksi
+
+Kadıköy Korsan Taksi Hizmetimiz:
+https://www.atataksi.com.tr/kadikoy-korsan-taksi
+
 Resmi İletişim ve Ana Sayfamız
 
 Fiyat tarifelerimizi kontrol etmek, güncel konumunuza hızlıca araç çağırmak veya VIP transfer rezervasyonu oluşturmak için resmi web sitemizin ana sayfasını ziyaret edin:
